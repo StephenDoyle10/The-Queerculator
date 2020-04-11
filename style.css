@@ -64,7 +64,7 @@ border: solid 2px #F7A8B8;
 :disabled {background-color: white}
 
 ::placeholder {
-  color: yellow;
+  color: Gainsboro;
   font-size: 20px;
   text-align: center;
 }
